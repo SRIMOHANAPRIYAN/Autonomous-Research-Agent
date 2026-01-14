@@ -1,0 +1,12 @@
+langchain
+langchain-core
+langchain-community
+langchain-google-genai
+langgraph
+chromadb
+pypdf
+python-dotenv
+tiktoken
+streamlit
+tavily-python
+pysqlite3-binary ; sys_platform == 'linux'
